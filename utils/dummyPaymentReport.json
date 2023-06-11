@@ -1,0 +1,250 @@
+[
+  {
+    "client": "Amores, Dennis - Dadeland",
+    "calls": 2,
+    "total_call_length": "0:01:04",
+    "total_rating_time": "0:02:04",
+    "pay_rate": 5.00,
+    "total": 0.17 
+  },
+  {
+    "client": "Amores, Dennis - Palmetto Bay",
+    "calls": 5,
+    "total_call_length": "0:12:31",
+    "total_rating_time": "0:15:34",
+    "pay_rate": 5.00,
+    "total": 1.30 
+  },
+  {
+    "client": "Arrindell, Gary",
+    "calls": 10,
+    "total_call_length": "0:06:55",
+    "total_rating_time": "0:13:19",
+    "pay_rate": 5.00,
+    "total": 1.11 
+  },
+  {
+    "client": "Campbell, Jonathan",
+    "calls": 12,
+    "total_call_length": "0:13:10",
+    "total_rating_time": "0:39:09",
+    "pay_rate": 5.00,
+    "total": 3.26 
+  },
+  {
+    "client": "Cavendish, Matt",
+    "calls": 6,
+    "total_call_length": "0:10:24",
+    "total_rating_time": "0:47:00",
+    "pay_rate": 5.00,
+    "total": 3.92 
+  },
+  {
+    "client": "Cullinan, Sean",
+    "calls": 19,
+    "total_call_length": "0:44:25",
+    "total_rating_time": "1:16:51",
+    "pay_rate": 5.00,
+    "total": 6.40 
+  },
+  {
+    "client": "Flores, Diego",
+    "calls": 13,
+    "total_call_length": "0:17:27",
+    "total_rating_time": "0:25:53",
+    "pay_rate": 5.00,
+    "total": 2.16 
+  },
+  {
+    "client": "Garg, Arun - Phoenix",
+    "calls": 20,
+    "total_call_length": "0:19:03",
+    "total_rating_time": "2:14:57",
+    "pay_rate": 5.00,
+    "total": 11.25 
+  },
+  {
+    "client": "Goodman, Paul",
+    "calls": 5,
+    "total_call_length": "0:16:11",
+    "total_rating_time": "0:37:01",
+    "pay_rate": 5.00,
+    "total": 3.08 
+  },
+  {
+    "client": "Hahn, Phil",
+    "calls": 15,
+    "total_call_length": "0:37:05",
+    "total_rating_time": "2:12:31",
+    "pay_rate": 5.00,
+    "total": 11.04 
+  },
+  {
+    "client": "Hill, Scott",
+    "calls": 3,
+    "total_call_length": "0:23:32",
+    "total_rating_time": "0:24:49",
+    "pay_rate": 5.00,
+    "total": 2.07 
+  },
+  {
+    "client": "Kinsey, Stephanie",
+    "calls": 1,
+    "total_call_length": "0:02:44",
+    "total_rating_time": "0:03:20",
+    "pay_rate": 5.00,
+    "total": 0.28 
+  },
+  {
+    "client": "Kryzman, Yael",
+    "calls": 3,
+    "total_call_length": "0:17:28",
+    "total_rating_time": "0:25:48",
+    "pay_rate": 5.00,
+    "total": 2.15 
+  },
+  {
+    "client": "Libby, Lewis",
+    "calls": 8,
+    "total_call_length": "0:30:27",
+    "total_rating_time": "0:38:36",
+    "pay_rate": 5.00,
+    "total": 3.22 
+  },
+  {
+    "client": "Lopez, Santiago",
+    "calls": 8,
+    "total_call_length": "0:16:25",
+    "total_rating_time": "0:20:02",
+    "pay_rate": 5.00,
+    "total": 1.67 
+  },
+  {
+    "client": "Moore, Gary",
+    "calls": 9,
+    "total_call_length": "0:14:40",
+    "total_rating_time": "0:18:45",
+    "pay_rate": 5.00,
+    "total": 1.56 
+  },
+  {
+    "client": "Najar, Senan - Bellingham",
+    "calls": 6,
+    "total_call_length": "0:17:42",
+    "total_rating_time": "0:39:13",
+    "pay_rate": 5.00,
+    "total": 3.27 
+  },
+  {
+    "client": "Najar, Senan - Mt. Vernon",
+    "calls": 7,
+    "total_call_length": "0:17:10",
+    "total_rating_time": "0:29:58",
+    "pay_rate": 5.00,
+    "total": 2.50 
+  },
+  {
+    "client": "Parikh, Purvak",
+    "calls": 7,
+    "total_call_length": "0:18:39",
+    "total_rating_time": "0:22:52",
+    "pay_rate": 5.00,
+    "total": 1.91 
+  },
+  {
+    "client": "Pesin, Daniel",
+    "calls": 10,
+    "total_call_length": "0:53:37",
+    "total_rating_time": "2:16:49",
+    "pay_rate": 5.00,
+    "total": 11.40 
+  },
+  {
+    "client": "Poldek, Kirk",
+    "calls": 6,
+    "total_call_length": "0:09:20",
+    "total_rating_time": "0:11:52",
+    "pay_rate": 5.00,
+    "total": 0.99 
+  },
+  {
+    "client": "Rogers, Matt",
+    "calls": 1,
+    "total_call_length": "0:00:36",
+    "total_rating_time": "0:00:52",
+    "pay_rate": 5.00,
+    "total": 0.07 
+  },
+  {
+    "client": "Rudnick, Andrew",
+    "calls": 31,
+    "total_call_length": "1:27:47",
+    "total_rating_time": "2:54:02",
+    "pay_rate": 5.00,
+    "total": 14.50 
+  },
+  {
+    "client": "Salguti, Deepika",
+    "calls": 8,
+    "total_call_length": "0:15:50",
+    "total_rating_time": "0:26:48",
+    "pay_rate": 5.00,
+    "total": 2.23 
+  },
+  {
+    "client": "Shieh, Christopher",
+    "calls": 11,
+    "total_call_length": "0:12:11",
+    "total_rating_time": "0:23:04",
+    "pay_rate": 5.00,
+    "total": 1.92 
+  },
+  {
+    "client": "Singer, Marshall",
+    "calls": 11,
+    "total_call_length": "0:36:49",
+    "total_rating_time": "0:40:30",
+    "pay_rate": 5.00,
+    "total": 3.38 
+  },
+  {
+    "client": "Singh, Jagjeet",
+    "calls": 6,
+    "total_call_length": "0:23:24",
+    "total_rating_time": "0:31:08",
+    "pay_rate": 5.00,
+    "total": 2.59 
+  },
+  {
+    "client": "Sobieh, Radwa",
+    "calls": 6,
+    "total_call_length": "0:13:50",
+    "total_rating_time": "0:18:37",
+    "pay_rate": 5.00,
+    "total": 1.55 
+  },
+  {
+    "client": "Tufankjian, Timothy",
+    "calls": 43,
+    "total_call_length": "1:20:42",
+    "total_rating_time": "3:54:12",
+    "pay_rate": 5.00,
+    "total": 19.52 
+  },
+  {
+    "client": "Vamadev, Veena",
+    "calls": 25,
+    "total_call_length": "1:22:40",
+    "total_rating_time": "1:41:17",
+    "pay_rate": 5.00,
+    "total": 8.44 
+  },
+  {
+    "client": "Wolski, William",
+    "calls": 11,
+    "total_call_length": "0:28:48",
+    "total_rating_time": "2:04:23",
+    "pay_rate": 5.00,
+    "total": 10.37
+  }
+]
